@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/glebarez/go-sqlite v1.21.1
-	github.com/jayalane/go-globals v0.0.0-20230405172728-d2ac785e3b4c
+	github.com/jayalane/go-globals v0.0.0-20230407003429-dfd9c489130a
 )
 
 require (
@@ -14,7 +14,7 @@ require (
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/jayalane/go-counter v0.0.0-20230405044057-110fc30883c0 // indirect
 	github.com/jayalane/go-lll v0.0.0-20230319184427-bcaed09a676c // indirect
-	github.com/jayalane/go-tinyconfig v0.0.0-20230405170519-764c588778de // indirect
+	github.com/jayalane/go-tinyconfig v0.0.0-20230406214908-d011322222a8 // indirect
 	github.com/lestrrat-go/file-rotatelogs v2.4.0+incompatible // indirect
 	github.com/lestrrat-go/strftime v1.0.6 // indirect
 	github.com/mattn/go-isatty v0.0.17 // indirect
